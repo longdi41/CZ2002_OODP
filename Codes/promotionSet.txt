@@ -1,0 +1,6 @@
+P2/Meal for 10/Promotion set consists of 10 Cheeseburger./40.0/35.0/
+P3/Spaghetti meal for 2/Promotion set consists of 2 Beef bolognese, 2 Coca Cola, 2 French Fries, 2 Mashed Potato./44.8/35.0/
+P4/Burger meal for 4/Promotion set consists of 4 Cheeseburger, 4 French Fries, 4 Coca Cola, 4 Mashed Potato./58.0/50.0/
+P5/mash potatoes for 2/Promotion set consists of 2 Mashed Potato./9.0/5.0/
+P6/Set Meal for 2/Promotion set consists of 2 Double Cheeseburger, 2 French Fries, 2 Hot Coffee./25.2/23.0/
+P7/Dessert for 1/Promotion set consists of 1 Banana Split./10.9/10.0/

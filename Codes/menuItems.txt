@@ -1,0 +1,5 @@
+3/Double Cheeseburger/A double cheeseburger./6.5/mainCourse
+4/Banana Split/Everyone's favourite dessert./10.9/dessert
+5/French Fries/A plate of fries./4.0/sides
+6/Hot Coffee/A cup of hot coffee./2.1/drinks
+7/Cheese Fries/Fries with cheese/20.00/sides
